@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-<!--
-**huseyinberk/huseyinberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/44447083/159666881-0bcc82e0-378a-4876-9030-7db4fa565faf.gif)
+
+<!--
+**huseyinberk/huseyinberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
